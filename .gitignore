@@ -1,0 +1,10 @@
+# build output
+/work/
+*.tipa
+*.dylib
+__pycache__/
+# inputs are other people's binaries — never commit
+*.ipa
+*.ipsw
+*.dmg
+dyld_shared_cache*
